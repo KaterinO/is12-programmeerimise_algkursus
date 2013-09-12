@@ -1,0 +1,4 @@
+print "abc" .capitalize()
+print "123" .zfill(6)
+print "print1" .endswith("1")
+print "0." + "23" .zfill(6)
