@@ -1,0 +1,31 @@
+Autopood = [
+
+["Honda", "8490$", "2005"],
+["Mazda", "4500$", "2004"],
+["Nissan", "12395$", "2007"],
+
+]
+
+print Autopood
+
+def add(Automark, Hind, Väljalaskeaasta):
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+#def remove ()
+
+#def list():
+	
